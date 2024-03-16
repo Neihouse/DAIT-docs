@@ -1,0 +1,3 @@
+# License
+
+The license under which this project is released.
